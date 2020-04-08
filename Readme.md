@@ -3,6 +3,7 @@ This is the IPL prediction project from previous data
 here matches.csv (636 rows data) is data which downloaded from kaggle.com
 test.csv is predictionfile
 and we save our results in ipl2.csv
+We use Decision tree algorithm in this prediction
 
 
 
